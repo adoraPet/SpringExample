@@ -1,0 +1,16 @@
+package io.adorapet.ex.database;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class UsedGoodsController {
+	
+	@RequestMapping("/database/ex01")
+	public ex01() {
+		//used_goods 목록 가져오기
+		
+		
+	}
+
+}

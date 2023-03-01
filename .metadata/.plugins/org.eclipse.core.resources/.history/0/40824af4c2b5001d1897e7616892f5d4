@@ -1,0 +1,5 @@
+package io.adorapet.ex.database.bo;
+
+public class UsedGoodsBO {
+
+}

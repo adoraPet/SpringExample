@@ -1,0 +1,5 @@
+package io.adorapet.ex.lifecycle;
+
+public class Ex01RestController {
+
+}

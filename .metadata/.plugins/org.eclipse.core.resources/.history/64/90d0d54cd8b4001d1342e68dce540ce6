@@ -1,0 +1,15 @@
+package io.adorapet.ex.hello;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class Ex01Controller {
+	
+	@RequestMapping("/")
+	public String stringResponse() {
+		
+		return "예제 1번 문자열을 담은 response";
+	}
+
+}

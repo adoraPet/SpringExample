@@ -1,0 +1,11 @@
+package io.adorapet.ex.lifecycle;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class Ex02Controller {
+	
+	public String jspResponse() {
+		return "/WEB-INF/jsp/lifecycle/ex01.jsp";
+	}
+}

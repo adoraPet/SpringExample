@@ -1,0 +1,8 @@
+package io.adorapet.ex.database.dao;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class UsedGoodsDAO {
+
+}
